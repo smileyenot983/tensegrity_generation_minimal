@@ -1,5 +1,5 @@
 # Description
-This code does convex optimization based tensegrity generation, with several interesting constraints. The description of the procedure might be found here [LaTEX]https://www.overleaf.com/read/mpkrpfnncdtd
+This code does convex optimization based tensegrity generation, with several interesting constraints. The description of the procedure might be found here ([LaTEX]https://www.overleaf.com/read/mpkrpfnncdtd)
 
 # Code 
 1. experiment_runner.m - main file, runs all experiment and here you can tune parameters(total number of nodes, whether to use certain constraint or not etc)
